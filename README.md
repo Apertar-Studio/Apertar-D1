@@ -4,4 +4,6 @@ This repository focuses on the CAD Files and recommended print settings. Feel fr
 
 **Print Settings:** I would recommend to use lower layer height for better quality for example 0.16mm is what we used for our project. Recommended Wall count is 4-5. Infill density is 35-45% Filament Type: We used PLA but anything you can print with your machine works well. Additionaly ironing for Top most Surfaces can be enabled for better top layer quality, make sure this option is calibrated for your printer and filament used.
 
-Print Orientations:
+## Support
+
+For support, email info@apertar.studio or join our Discord.
