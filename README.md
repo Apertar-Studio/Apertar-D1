@@ -9,4 +9,4 @@ This repository focuses on the CAD Files and recommended print settings. Feel fr
 
 ## Support
 
-For support, email info@apertar.studio or join our Discord.
+For support, email info@apertar.studio or join our [Discord](https://discord.gg/hWTvKG6syK)
